@@ -8,29 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=45&lines=Aspiring+Data+Scientist+%7C+Faculty+of+Computing;Sabaragamuwa+University+of+Sri+Lanka" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <!-- Add your real links below by replacing # -->
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://hashini596.github.io/"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.instagram.com/your-instagram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.facebook.com/your-facebook/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://leetcode.com/your-leetcode/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-  <a href="https://www.hackerrank.com/your-hackerrank/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://dev.to/your-devto/"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="DEV.to"></a>
-  <a href="https://medium.com/@your-medium"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://www.behance.net/your-behance"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"></a>
-  <a href="https://dribbble.com/your-dribbble"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble"></a>
-  <a href="https://codepen.io/your-codepen"><img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white" alt="CodePen"></a>
-  <a href="https://www.kaggle.com/your-kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://www.stackoverflow.com/users/your-stackoverflow"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" alt="StackOverflow"></a>
-  <a href="https://www.researchgate.net/profile/your-researchgate"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
-  <a href="https://orcid.org/your-orcid"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://scholar.google.com/citations?user=your-scholar"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-</p>
 
----
 
 🚀 **About Me**  
 
