@@ -84,11 +84,6 @@ Hi there! I’m an undergraduate at Sabaragamuwa University of Sri Lanka, with a
 
 ---
 
-### 🌟 Featured Projects
 
-- 🚀 _Add a few lines about your favorite or top projects here!_
-- 💡 _Link to project repositories or demos._
-
----
 
 <p align="center"><b>“Turning data into impact, one project at a time.”</b></p>
