@@ -1,37 +1,35 @@
 <!-- Profile README for hashini596 -->
 
 <h1 align="center">
-  Hi 👋, I'm Hashini!
+  Hi 👋, I'm Hashini Kavindi!
 </h1>
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Data+Science+%7C+Machine+Learning;Full+Stack+Developer;Always+Learning+New+Technologies;Aspiring+Data+Scientist;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Welcome+to+My+Github+Profile;Always+Learning+New+Technologies;;Data+Science+%7C+Machine+Learning;Full+Stack+Developer;Aspiring+Data+Scientist;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
 
+---
 
+## 🚀 About Me
 
-🚀 **About Me**  
-
-Hi there!
-💻 Passionate about crafting clean, interactive, and user-friendly web  applications.  
-
+💻 Passionate about crafting clean, interactive, and user-friendly web applications.  
 🎨 I love working on UI/UX design and building full-stack projects that not only work—but feel great to use.  
-
 📈 Always seeking to expand my skill set through hands-on projects, real-world problem solving, and continuous learning.  
-
 🤝 Open to collaborations, internships, or any opportunity where I can contribute and grow as a developer.  
 
 ---
 
-### 👩‍🎓 Education
+## 👩‍🎓 Education
 
-- 🎓 **Undergraduate Data Science, Faculty of Computing, Sabaragamuwa University of Sri Lanka** 
+- 🎓 **Undergraduate in Data Science, Faculty of Computing, Sabaragamuwa University of Sri Lanka** 
 - 💡 Passionate about data-driven solutions, **AI/ML**, and building impactful software.
 - 🌱 Currently learning **Machine learning** and **Cloud computing**.
 
 ---
 
-### 🛠️ Tech Arsenal
+## 🛠️ Tech Arsenal
 
 #### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -50,7 +48,6 @@ Hi there!
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
 
 #### 🗄️ Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -71,18 +68,30 @@ Hi there!
 
 ---
 
-### 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hashini596&theme=react&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=hashini596&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashini596&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
+ 
 
 ---
 
 
 
-<p align="center"><b>“Turning data into impact, one project at a time.”</b></p>
+
+## 🤝 Let's Connect!
+I'm always excited to connect with fellow developers, data enthusiasts, and creative minds!
+
+- 💼 Check out my repositories to see what I've been building
+- ⭐ Feel free to star any projects you find interesting
+- 🤝 Open to collaborations, internships, and learning opportunities
+- 📫 Reach out if you want to discuss technology, data science, or just chat about coding!
+
+<p align="center"><b>"Turning data into impact, one project at a time."</b></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hashini596&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
