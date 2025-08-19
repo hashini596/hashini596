@@ -12,7 +12,7 @@
 
 🚀 **About Me**  
 
-Hi there! I’m an undergraduate at Sabaragamuwa University of Sri Lanka, with a strong drive to turn ideas into digital experiences.  
+Hi there! I’m an undergraduate at **Faculty of Computing ,Sabaragamuwa University of Sri Lanka** , with a strong drive to turn ideas into digital experiences.  
 
 💻 Passionate about crafting clean, interactive, and user-friendly web and mobile applications.  
 
