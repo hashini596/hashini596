@@ -5,15 +5,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Data+Science+%7C+Machine+Learning;Full+Stack+Developer;Always+Learning+New+Technologies;Aspiring+Data+Scientist;UI%2FUX+Enthusiast;Problem+Solver;Code+%26+Create" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Data+Science+%7C+Machine+Learning;Full+Stack+Developer;Always+Learning+New+Technologies;Aspiring+Data+Scientist;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
 
 
 
 🚀 **About Me**  
 
-Hi there! I’m an undergraduate at **Faculty of Computing ,Sabaragamuwa University of Sri Lanka** , with a strong drive to turn ideas into digital experiences.  
-
+Hi there!
 💻 Passionate about crafting clean, interactive, and user-friendly web  applications.  
 
 🎨 I love working on UI/UX design and building full-stack projects that not only work—but feel great to use.  
@@ -26,9 +25,9 @@ Hi there! I’m an undergraduate at **Faculty of Computing ,Sabaragamuwa Univers
 
 ### 👩‍🎓 Education
 
-- 🎓 **Degree:** Data Science, Faculty of Computing, Sabaragamuwa University of Sri Lanka  
-- 💡 Passionate about data-driven solutions, AI/ML, and building impactful software.
-- 🌱 Currently learning **advanced machine learning** and **cloud computing**.
+- 🎓 **Undergraduate Data Science, Faculty of Computing, Sabaragamuwa University of Sri Lanka** 
+- 💡 Passionate about data-driven solutions, **AI/ML**, and building impactful software.
+- 🌱 Currently learning **Machine learning** and **Cloud computing**.
 
 ---
 
