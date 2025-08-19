@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=45&lines=Aspiring+Data+Scientist+%7C+Faculty+of+Computing;Sabaragamuwa+University+of+Sri+Lanka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Data+Science+%7C+Machine+Learning;Full+Stack+Developer;Always+Learning+New+Technologies;Aspiring+Data+Scientist;UI%2FUX+Enthusiast;Problem+Solver;Code+%26+Create" alt="Typing SVG" />
 </p>
 
 
@@ -14,7 +14,7 @@
 
 Hi there! I’m an undergraduate at **Faculty of Computing ,Sabaragamuwa University of Sri Lanka** , with a strong drive to turn ideas into digital experiences.  
 
-💻 Passionate about crafting clean, interactive, and user-friendly web and mobile applications.  
+💻 Passionate about crafting clean, interactive, and user-friendly web  applications.  
 
 🎨 I love working on UI/UX design and building full-stack projects that not only work—but feel great to use.  
 
