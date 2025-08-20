@@ -18,15 +18,6 @@
 🎨 I love working on UI/UX design and building full-stack projects that not only work—but feel great to use.  
 📈 Always seeking to expand my skill set through hands-on projects, real-world problem solving, and continuous learning.  
 🤝 Open to collaborations, internships, or any opportunity where I can contribute and grow as a developer.  
-
----
-
-## 👩‍🎓 Education
-
-- 🎓 **Undergraduate in Data Science, Faculty of Computing, Sabaragamuwa University of Sri Lanka** 
-- 💡 Passionate about data-driven solutions, **AI/ML**, and building impactful software.
-- 🌱 Currently learning **Machine learning** and **Cloud computing**.
-
 ---
 
 ## 🛠️ Tech Arsenal
